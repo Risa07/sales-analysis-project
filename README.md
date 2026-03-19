@@ -1,8 +1,6 @@
 # sales-analysis-project
 Sales Performance &amp; Customer Analysis using Excel
 
-📊 Sales Performance & Customer Analysis
-
 📌 Project Overview
 
 This project analyzes sales data to identify key trends, customer behavior, and business insights.
