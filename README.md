@@ -23,6 +23,12 @@ Sales showed consistent growth over time
 
 Top customers drive a significant portion of revenue
 
+💡 Business Impact
+
+- Identified high-performing regions to guide expansion strategy  
+- Highlighted top customers for targeted marketing  
+- Provided insights into category demand for inventory planning
+  
 📁 Files Included
 
 Sales Analysis Report (PDF)
