@@ -2,6 +2,7 @@
 Sales Performance &amp; Customer Analysis using Excel
 
 📊 Sales Performance & Customer Analysis
+
 📌 Project Overview
 
 This project analyzes sales data to identify key trends, customer behavior, and business insights.
@@ -15,6 +16,7 @@ Pivot Tables
 Data Cleaning
 
 🔍 Key Insights
+
 The West region generated the highest sales
 
 The technology category contributed the most revenue
@@ -27,6 +29,7 @@ Top customers drive a significant portion of revenue
 
 Sales Analysis Report (PDF)
 
+Excel Analysis File
 Excel Dataset & Analysis
 
 🚀 About Me
